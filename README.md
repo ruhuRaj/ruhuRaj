@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="C:\Users\BITG\Pictures\Screenshots\Screenshot 2025-07-25 203309.png" alt="Randhir Kumar Raj Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Randhir Kumar Raj
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning (2023–2027)  
