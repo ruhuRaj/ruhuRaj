@@ -132,4 +132,4 @@ An AI-driven assessment platform using **LLMs** for automated question and quiz 
   <img src="https://komarev.com/ghpvc/?username=ruhuRaj&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">⭐ <i>If you like my work, consider starring some of my repositories!</i> ⭐</p>
+<p align="center">⭐ <i>If you like my work, consider starring some of my repositories. Thank You!!</i> ⭐</p>
