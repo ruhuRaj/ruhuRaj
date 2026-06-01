@@ -6,9 +6,9 @@
 <h3 align="center">Pre-final year B.Tech AIML student @ BIT Mesra | Full-Stack MERN Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="https://randhir-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/randhir-kumar-raj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/randhirrajak" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://port-folio-new-zeta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/randhir-kumar-raj-0528442b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ruhuRaj" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:randhirrajak9431@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science (AIML)** at **BIT Mesra** — graduating May 2027
+- 🎓 Pursuing **B.Tech in Computer Science (AIML)** at **BIT Mesra** — graduating 2027
 - 🔭 Currently building scalable full-stack applications with **MERN + AI integrations**
 - 🌱 Exploring **LLMs, Docker, Redis**, and distributed systems
 - ⚡ Fun fact: Qualified **Super 30** (Anand Kumar's institute) and solved **1000+ DSA problems**
@@ -62,7 +62,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏛️ [RAAH — Grievance Redressal System](https://github.com/randhirrajak/raah)
+### 🏛️ RAAH — Grievance Redressal System &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ruhuRaj/RAAH_Redressal-System) &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://raah-sigma.vercel.app/)
 > MongoDB · Node.js · React · Express · TailwindCSS · JWT · Cloudinary
 
 A full-stack MERN grievance redressal platform with **multi-role access** (Citizen, Nodal Officer, DM), real-time status updates, secure JWT auth, and email-based notifications.
@@ -73,7 +73,7 @@ A full-stack MERN grievance redressal platform with **multi-role access** (Citiz
 
 ---
 
-### 📚 [StudyPlanet — Learning Platform](https://github.com/randhirrajak/studyplanet)
+### 📚 StudyPlanet — Learning Platform &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ruhuRaj/StudyPlanet) &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://studyplanet-six-flame.vercel.app/)
 > MongoDB · Express · React · Node.js · Redux · TailwindCSS · Razorpay
 
 A scalable e-learning platform with course enrollment, dynamic content delivery, and a payment gateway.
@@ -84,7 +84,7 @@ A scalable e-learning platform with course enrollment, dynamic content delivery,
 
 ---
 
-### 🤖 [AssessAI — AI-Powered Assessment Tool](https://github.com/randhirrajak/assessai)
+### 🤖 AssessAI — AI-Powered Assessment Tool &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ruhuRaj/AssessAI) &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://assess-ai-one.vercel.app/login)
 > MongoDB · Node.js · Express · TypeScript · Docker · Redis · Groq API
 
 An AI-driven assessment platform using **LLMs** for automated question and quiz generation.
@@ -114,9 +114,9 @@ An AI-driven assessment platform using **LLMs** for automated question and quiz 
   <img src="https://streak-stats.demolab.com/?user=ruhuRaj&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhuRaj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
-</p> -->
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhuRaj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" /> -->
+</p>
 
 ---
 
