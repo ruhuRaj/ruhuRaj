@@ -100,8 +100,8 @@ An AI-driven assessment platform using **LLMs** for automated question and quiz 
 | 🏅 Achievement | Details |
 |---|---|
 | 🌐 Open Source Contributor | **GSSoC'26** — merged PRs to production-grade open-source projects |
-| 💻 LeetCode | Peak rating **1634** · Ranked **2745 / 41,000+** in Biweekly Contest 176 · **1000+ problems solved** |
-| ⚔️ Codeforces | Rating **1329 (Pupil)** · Ranked **467 / 60,000+** in Round 1032 (Div. 3) |
+| 💻 LeetCode | Peak rating **1756** · Ranked **2745 / 41,000+** in Biweekly Contest 176 · **1100+ problems solved** |
+| ⚔️ Codeforces | Rating **1460 (Specialist)** · Ranked **467 / 60,000+** in Round 1032 (Div. 3) |
 | 🚀 Entrepreneurship | **Top 5 finish** at BIT-NISHAN'24 Plan-B Competition |
 | 🎓 Academic Excellence | Qualified **Super 30** entrance exam by Anand Kumar's institute |
 
