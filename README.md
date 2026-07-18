@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Randhir Kumar Raj</h1>
-<h3 align="center">Pre-final year B.Tech AIML student @ BIT Mesra | Full-Stack MERN Developer | DSA Enthusiast</h3>
+<h3 align="center">Final year B.Tech AIML student @ BIT Mesra | Full-Stack MERN Developer | DSA Enthusiast</h3>
 
 <p align="center">
   <a href="https://port-folio-new-zeta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
@@ -19,7 +19,7 @@
 - 🎓 Pursuing **B.Tech in Computer Science (AIML)** at **BIT Mesra** — graduating 2027
 - 🔭 Currently building scalable full-stack applications with **MERN + AI integrations**
 - 🌱 Exploring **LLMs, Docker, Redis**, and distributed systems
-- ⚡ Fun fact: Qualified **Super 30** (Anand Kumar's institute) and solved **1000+ DSA problems**
+- ⚡ Fun fact: Qualified **Super 30** (Anand Kumar's institute) and solved **1100+ DSA problems**
 
 ---
 
@@ -100,7 +100,7 @@ An AI-driven assessment platform using **LLMs** for automated question and quiz 
 | 🏅 Achievement | Details |
 |---|---|
 | 🌐 Open Source Contributor | **GSSoC'26** — merged PRs to production-grade open-source projects |
-| 💻 LeetCode | Peak rating **1756** · Ranked **2745 / 41,000+** in Biweekly Contest 176 · **1100+ problems solved** |
+| 💻 LeetCode | Peak rating **1838** · Ranked **542 / 41,000+** in Weekly Contest 510 · **1100+ problems solved** |
 | ⚔️ Codeforces | Rating **1460 (Specialist)** · Ranked **467 / 60,000+** in Round 1032 (Div. 3) |
 | 🚀 Entrepreneurship | **Top 5 finish** at BIT-NISHAN'24 Plan-B Competition |
 | 🎓 Academic Excellence | Qualified **Super 30** entrance exam by Anand Kumar's institute |
